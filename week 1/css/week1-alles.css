@@ -1,0 +1,37 @@
+body{
+	margin: 0 auto;
+	background-image: url("../img/matrix.png");
+	text-align: center;
+	color: white;
+}
+
+nav{
+	list-style-type: none;
+  	margin: 0;
+  	padding: 0;
+  	overflow: hidden;
+  	background-color: seagreen;
+}
+
+a{
+	background-color: olivedrab;
+	color: white;
+	line-height: 30px;
+	font-size: 20px;
+}
+
+header > h1{
+	color: white;
+}
+
+footer{
+	background-color: seagreen;
+	margin-top: 600px;
+}
+
+footer > p{
+	color: white;
+
+}
+
+

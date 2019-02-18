@@ -1,0 +1,41 @@
+body{
+	margin: 0 auto;
+	text-align: center;
+}
+#navbar{
+	list-style-type: none;
+  	margin: 0;
+  	padding: 0;
+  	overflow: hidden;
+  	background-color: seagreen;
+}
+
+a{
+	background-color: olivedrab;
+	color: white;
+	line-height: 30px;
+	font-size: 20px;
+}
+
+#headertje{
+	margin-bottom: 250px;
+}
+
+#headertje > h1{
+	color: black;
+
+}
+
+footer{
+	margin-top: 300px;
+	color: white;
+	background-color: seagreen;
+}
+
+p{
+	text-align: center;
+	font-size: 30px;
+	font-family: Courier, monospace;
+}
+
+
